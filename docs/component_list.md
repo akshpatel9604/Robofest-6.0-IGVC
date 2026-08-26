@@ -1,4 +1,4 @@
-# Aetherbot Component List
+# Rover Component List
 Team Aetherbot, Dharmsinh Desai University
 Robofest Gujarat 6.0 — IGVC Senior
 
