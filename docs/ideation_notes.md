@@ -1,4 +1,4 @@
-# Ideation Notes — Team Aetherbot
+# Ideation Notes — Team Cognitrek
 Dharmsinh Desai University
 Robofest Gujarat 6.0 | Senior | IGVC
 
