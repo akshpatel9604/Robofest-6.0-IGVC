@@ -1,5 +1,5 @@
 # Rover Component List
-Team Aetherbot, Dharmsinh Desai University
+Team Cognitrek, Dharmsinh Desai University
 Robofest Gujarat 6.0 — IGVC Senior
 
 ## 1. Compute
