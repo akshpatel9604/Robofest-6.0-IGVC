@@ -22,7 +22,7 @@ Robofest Gujarat 6.0 — IGVC Senior
 - Wheel encoders [optional]
 
 ## 4. Power
-- 12V 5000mAh lithium battery
+- 12V 30Ah lithium battery
 - 12V to 5V buck converter (5–8A)
 - Wiring, XT60, fuse
 - Emergency stop switch
