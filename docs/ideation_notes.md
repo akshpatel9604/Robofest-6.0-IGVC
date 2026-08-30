@@ -42,7 +42,7 @@ We selected Raspberry Pi 5 (8 GB) because:
 - balloon tyres 10–12 inch (280 mm)
 - aluminium 20 x 20 mm chassis
 - shocks for ramps and uneven ground
-- size near 1100 x 800 x 420 mm
+- size near 100 × 90 × 63 cm
 - width kept under 4 ft passage / tunnel / underpass
 - ground clearance about 120 mm
 
