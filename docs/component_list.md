@@ -39,9 +39,9 @@ Robofest Gujarat 6.0 — IGVC Senior
 - 3D-printed mounts (ABS / PLA)
 
 ## 6. Chassis size
-- Length: 1100 mm
-- Width: 800 mm
-- Height: 420 mm
+- Length: 100 cm
+- Width: 90 cm
+- Height: 63 cm
 - Track width: 680 mm
 - Wheel diameter: 280 mm
 - Ground clearance: 120 mm
